@@ -25,7 +25,7 @@ export default function Contact({ profile }) {
                   key={label}
                   href={href}
                   target={href.startsWith("http") ? "_blank" : undefined}
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                   className="flex items-center gap-3 rounded-lg border border-white/10 bg-navy/60 p-4 transition hover:-translate-y-0.5 hover:border-cyanTech/40"
                 >
                   <span className="grid h-11 w-11 shrink-0 place-items-center rounded-lg bg-cyanTech/10 text-cyanTech">
@@ -41,7 +41,7 @@ export default function Contact({ profile }) {
             <a
               href={`https://wa.me/${profile.whatsapp}?text=Hola%20Rover,%20vi%20tu%20portafolio%20y%20quiero%20contactarte.`}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               className="btn-primary mt-6 w-full sm:w-auto"
             >
               Contactar por WhatsApp

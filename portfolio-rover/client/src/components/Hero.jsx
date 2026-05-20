@@ -59,7 +59,7 @@ export default function Hero({ profile }) {
                 key={label}
                 href={href}
                 target={href.startsWith("http") ? "_blank" : undefined}
-                rel="noreferrer"
+                rel="noopener noreferrer"
                 className="inline-flex h-11 w-11 items-center justify-center rounded-lg border border-white/10 bg-white/[0.04] text-slate-200 transition hover:-translate-y-0.5 hover:border-cyanTech/50 hover:text-cyanTech"
                 aria-label={label}
               >

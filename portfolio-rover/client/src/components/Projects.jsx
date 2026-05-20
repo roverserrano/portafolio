@@ -7,7 +7,7 @@ export default function Projects() {
     <section id="proyectos" className="section-shell">
       <div className="mx-auto max-w-7xl px-5 sm:px-8">
         <SectionHeader eyebrow="Proyectos" title="Experiencia practica academica y personal">
-          Proyectos desarrollado.
+          Proyectos desarrollados con enfoque en impacto real, arquitectura y resultados medibles.
         </SectionHeader>
 
         <div className="grid gap-5 lg:grid-cols-2">
