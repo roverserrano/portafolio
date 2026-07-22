@@ -9,11 +9,11 @@ import Footer from "./components/Footer.jsx";
 
 export const profile = {
   name: "Rover Serrano Quiroz",
-  title: "Desarrollador Full Stack en Cochabamba, Bolivia",
-  shortTitle: "Full Stack",
+  title: "Desarrollador Full Stack",
+  shortTitle: "Full Stack Dev",
   location: "Cochabamba, Bolivia",
   phrase:
-    "Construyo soluciones web, moviles e inteligentes combinando desarrollo full stack, inteligencia artificial aplicada e integracion hardware-software para proyectos reales.",
+    "Ingeniero de Sistemas recién graduado. Construyo soluciones web, móviles e inteligentes que resuelven problemas reales.",
   github: "https://github.com/roverserrano",
   linkedin: "https://linkedin.com/in/rover-serrano",
   email: "serranorover436@gmail.com",
@@ -22,7 +22,7 @@ export const profile = {
 
 export default function App() {
   return (
-    <div className="min-h-screen overflow-hidden bg-navy text-white">
+    <div className="min-h-screen overflow-hidden bg-bg-primary text-text-primary">
       <Navbar profile={profile} />
       <main>
         <Hero profile={profile} />

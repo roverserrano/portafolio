@@ -1,52 +1,114 @@
-import { ExternalLink } from "lucide-react";
+import { ExternalLink, Github, Eye } from "lucide-react";
 import { projects } from "../data/projects.js";
 import SectionHeader from "./SectionHeader.jsx";
 
 export default function Projects() {
   return (
     <section id="proyectos" className="section-shell">
-      <div className="mx-auto max-w-7xl px-5 sm:px-8">
-        <SectionHeader eyebrow="Proyectos" title="Experiencia practica academica y personal">
-          Proyectos desarrollados con enfoque en impacto real, arquitectura y resultados medibles.
+      <div className="mx-auto max-w-7xl px-6 sm:px-8">
+        <SectionHeader eyebrow="Proyectos" title="Cosas que construí con propósito">
+          Cada uno resuelve un problema concreto. No son ejercicios de tutorial: tienen decisiones técnicas reales y código en producción.
         </SectionHeader>
 
-        <div className="grid gap-5 lg:grid-cols-2">
-          {projects.map((project, index) => (
+        <div className="grid gap-6 lg:grid-cols-2">
+          {projects.map((project) => (
             <article
               key={project.name}
-              className={`project-card rounded-lg border border-white/10 bg-slatePanel/60 p-6 shadow-card transition duration-300 hover:-translate-y-1 hover:border-cyanTech/40 hover:shadow-soft ${
-                index === 0 ? "lg:col-span-2" : ""
-              }`}
+              className="group flex flex-col rounded-xl border border-white/[0.06] bg-bg-panel/60 p-7 shadow-card transition duration-300 hover:-translate-y-1 hover:border-accent-warm/15"
             >
-              <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
-                <div>
-                  <span className="mb-3 inline-flex rounded-full border border-greenTech/30 bg-greenTech/10 px-3 py-1 text-xs font-extrabold uppercase text-emerald-200">
-                    {project.type}
-                  </span>
-                  <h3 className="font-heading text-2xl font-extrabold text-white">{project.name}</h3>
-                </div>
-                <span className="w-fit rounded-lg border border-cyanTech/30 bg-cyanTech/10 px-3 py-2 text-sm font-extrabold text-cyan-100">
+              {/* Header: tipo + categoría */}
+              <div className="mb-4 flex flex-wrap items-center gap-2">
+                <span className="rounded border border-accent-green/20 bg-accent-green/10 px-2.5 py-1 font-mono text-[0.65rem] font-bold uppercase tracking-wider text-accent-green">
+                  {project.type}
+                </span>
+                <span className="rounded border border-accent-cool/20 bg-accent-cool/10 px-2.5 py-1 font-mono text-[0.65rem] font-bold uppercase tracking-wider text-accent-cool">
                   {project.category}
                 </span>
               </div>
-              <p className="mt-5 text-base leading-7 text-slate-300">{project.description}</p>
-              <p className="mt-4 rounded-lg border border-white/10 bg-navy/60 p-4 text-sm leading-6 text-slate-300">
-                <strong className="text-white">Enfoque:</strong> {project.highlight}
+
+              {/* Título */}
+              <h3 className="mb-3 font-heading text-xl font-bold text-text-primary group-hover:text-accent-warm transition-colors duration-300">
+                {project.name}
+              </h3>
+
+              {/* El problema — contexto humano */}
+              <div className="mb-4 rounded-lg border-l-2 border-accent-cool/30 bg-accent-cool/[0.03] py-3 px-4">
+                <span className="text-[0.65rem] font-bold uppercase tracking-wider text-accent-cool/80">
+                  El problema
+                </span>
+                <p className="mt-1 text-sm leading-relaxed text-text-secondary/90">
+                  {project.problem}
+                </p>
+              </div>
+
+              {/* Descripción — la solución */}
+              <p className="mb-4 flex-1 text-sm leading-relaxed text-text-secondary">
+                {project.description}
               </p>
 
-              <div className="mt-5 flex flex-wrap gap-2">
+              {/*}
+              {/*
+              <div className="mb-4 rounded-lg border border-white/[0.04] bg-white/[0.02] py-3 px-4">
+                <span className="text-[0.65rem] font-bold uppercase tracking-wider text-text-muted">
+                  Mi contribución
+                </span>
+                <p className="mt-1.5 text-xs leading-relaxed text-text-muted">
+                  {project.myRole}
+                </p>
+              </div>
+              */}
+
+              {/* Resultado — highlight */}
+              <div className="mb-5 border-l-2 border-accent-warm bg-accent-warm/[0.03] py-2.5 pl-3">
+                <span className="text-[0.65rem] font-bold uppercase tracking-wider text-accent-warm">
+                  Resultado
+                </span>
+                <p className="mt-1 text-xs leading-relaxed text-text-secondary">
+                  {project.highlight}
+                </p>
+              </div>
+
+              {/* Stack */}
+              <div className="mb-5 flex flex-wrap gap-2">
                 {project.stack.map((tech) => (
-                  <span key={tech} className="rounded-lg bg-white/5 px-3 py-2 text-xs font-bold text-slate-200 ring-1 ring-white/10">
+                  <span
+                    key={tech}
+                    className="rounded bg-white/[0.03] px-2 py-1 font-mono text-[0.65rem] text-text-muted ring-1 ring-white/[0.05]"
+                  >
                     {tech}
                   </span>
                 ))}
               </div>
 
-              <div className="mt-6">
-                <a className="inline-flex items-center gap-2 text-sm font-extrabold text-cyanTech transition hover:text-white" href="#contacto">
-                  Solicitar detalles
-                  <ExternalLink size={16} aria-hidden="true" />
-                </a>
+              {/* Links */}
+              <div className="mt-auto flex gap-4 pt-2 border-t border-white/[0.04]">
+                {project.repoUrl && (
+                  <a
+                    href={project.repoUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 text-sm font-semibold text-accent-warm transition hover:text-[#c9965f]"
+                  >
+                    <Github size={15} />
+                    Código
+                  </a>
+                )}
+                {project.demoUrl && (
+                  <a
+                    href={project.demoUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 text-sm font-semibold text-text-secondary transition hover:text-text-primary"
+                  >
+                    <Eye size={15} />
+                    Demo
+                  </a>
+                )}
+                {!project.repoUrl && !project.demoUrl && (
+                  <span className="text-xs text-text-muted italic">
+                    Repositorio privado — solicitar acceso
+                  </span>
+                )}
               </div>
             </article>
           ))}

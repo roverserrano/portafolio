@@ -1,12 +1,14 @@
 export default function SectionHeader({ eyebrow, title, children }) {
   return (
-    <div className="mb-10 max-w-3xl">
-      <span className="mb-3 inline-flex items-center gap-2 text-sm font-extrabold uppercase text-cyanTech">
-        <span className="h-0.5 w-7 rounded-full bg-cyanTech" />
+    <div className="mb-12 max-w-2xl">
+      <span className="mb-4 inline-flex items-center gap-3 font-mono text-xs font-medium uppercase tracking-[0.15em] text-accent-warm">
+        <span className="h-px w-8 rounded-full bg-accent-warm/50" />
         {eyebrow}
       </span>
-      <h2 className="font-heading text-3xl font-extrabold leading-tight text-white sm:text-4xl lg:text-5xl">{title}</h2>
-      {children ? <p className="mt-4 text-lg leading-8 text-slate-400">{children}</p> : null}
+      <h2 className="font-heading text-[clamp(1.6rem,3vw,2.4rem)] font-bold leading-[1.1] tracking-[-0.02em] text-text-primary">
+        {title}
+      </h2>
+      {children ? <p className="mt-4 text-base leading-relaxed text-text-secondary sm:text-lg">{children}</p> : null}
     </div>
   );
 }

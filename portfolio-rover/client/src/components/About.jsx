@@ -4,46 +4,65 @@ import SectionHeader from "./SectionHeader.jsx";
 const points = [
   {
     icon: Layers3,
-    title: "Full stack con foco practico",
-    text: "Construccion de interfaces, APIs, dashboards y flujos separados entre frontend y backend.",
+    title: "Full stack con foco práctico",
+    text: "Interfaces, APIs, dashboards y flujos bien separados entre frontend y backend. Código que otro pueda leer y mantener.",
   },
   {
     icon: Sparkles,
     title: "IA aplicada a problemas reales",
-    text: "Trabajo academico con NLP, vision por computadora, modelos transformer y visualizacion de resultados.",
+    text: "NLP, visión por computadora y modelos transformer. No teoría abstracta: modelos que clasifican, detectan y cuentan.",
   },
   {
     icon: Cpu,
-    title: "Integracion IoT y embebidos",
-    text: "Experiencia integrando Jetson Orin Nano, ESP32, LoRa, BLE y comunicacion hardware-software.",
+    title: "Integración IoT y embebidos",
+    text: "Jetson Orin Nano, ESP32, LoRa, BLE. Cuando el software necesita tocar hardware, no me asusto.",
   },
 ];
 
 export default function About() {
   return (
     <section id="sobre-mi" className="section-shell">
-      <div className="mx-auto max-w-7xl px-5 sm:px-8">
-        <SectionHeader eyebrow="Sobre mi" title="Perfil orientado a construir soluciones">
-          Desarrollo proyectos reales con enfoque en producto, arquitectura y entrega de valor.
+      <div className="mx-auto max-w-7xl px-6 sm:px-8">
+        <SectionHeader eyebrow="Sobre mí" title="De la universidad a proyectos que resuelven problemas">
+          Recién graduado de Ingeniería de Sistemas en Univalle. No me quedé en teoría: cada proyecto buscaba resolver algo concreto.
         </SectionHeader>
 
-        <div className="grid gap-6 lg:grid-cols-[1.15fr_0.85fr]">
-          <article className="rounded-lg border border-white/10 bg-slatePanel/60 p-6 shadow-card sm:p-8">
-            <p className="text-lg leading-8 text-slate-200">
-              Soy estudiante de ultimo semestre de Ingenieria de Sistemas y me enfoco en crear soluciones web, moviles e inteligentes que respondan a necesidades concretas. Trabajo en proyectos academicos y personales donde integro desarrollo full stack, inteligencia artificial aplicada e integracion hardware-software, cuidando tanto la calidad tecnica como la utilidad del producto. Busco aportar en equipos que valoren la ejecucion, la colaboracion y la mejora continua.
-            </p>
+        <div className="grid gap-6 lg:grid-cols-[1.25fr_0.75fr]">
+          <article className="relative overflow-hidden rounded-xl border border-white/[0.06] bg-bg-panel/70 p-8 shadow-card sm:p-10">
+            <div className="absolute left-10 top-0 h-[2px] w-16 bg-accent-warm" />
+            <div className="space-y-5">
+              <p className="text-base leading-[1.85] text-text-secondary sm:text-lg">
+                Durante la carrera me di cuenta de que lo que más me motiva no es escribir código por escribirlo, sino{" "}
+                <strong className="font-semibold text-text-primary">
+                  ver cómo una solución técnica mejora el trabajo de otra persona
+                </strong>
+                . Por eso mis proyectos van desde contar ganado con IA hasta detectar bots en redes sociales.
+              </p>
+              <p className="text-base leading-[1.85] text-text-secondary sm:text-lg">
+                Me formé de forma autodidacta en{" "}
+                <strong className="font-semibold text-text-primary">ciberseguridad</strong> (Red Team, ethical hacking) y{" "}
+                <strong className="font-semibold text-text-primary">cloud computing</strong> (AWS, Huawei Cloud) porque creo que un buen desarrollador debe entender el stack completo, no solo su capa.{" "}
+                <strong className="font-semibold text-text-primary">
+                  Busco unirme a un equipo donde pueda aportar desde el día uno
+                </strong>{" "}
+                y seguir creciendo junto a personas que valoren la ejecución.
+              </p>
+            </div>
           </article>
 
           <div className="grid gap-4">
             {points.map(({ icon: Icon, title, text }) => (
-              <article key={title} className="rounded-lg border border-white/10 bg-white/[0.04] p-5 transition hover:-translate-y-1 hover:border-cyanTech/40">
+              <article
+                key={title}
+                className="group rounded-xl border border-white/[0.06] bg-white/[0.02] p-5 transition duration-300 hover:-translate-y-1 hover:border-accent-warm/20"
+              >
                 <div className="flex gap-4">
-                  <span className="grid h-11 w-11 shrink-0 place-items-center rounded-lg bg-cyanTech/10 text-cyanTech">
-                    <Icon size={21} aria-hidden="true" />
+                  <span className="grid h-11 w-11 shrink-0 place-items-center rounded-lg bg-accent-warm/10 text-accent-warm transition group-hover:bg-accent-warm/15">
+                    <Icon size={20} aria-hidden="true" />
                   </span>
                   <div>
-                    <h3 className="font-heading text-lg font-extrabold text-white">{title}</h3>
-                    <p className="mt-1 text-sm leading-6 text-slate-400">{text}</p>
+                    <h3 className="font-heading text-base font-bold text-text-primary">{title}</h3>
+                    <p className="mt-1.5 text-sm leading-relaxed text-text-muted">{text}</p>
                   </div>
                 </div>
               </article>
