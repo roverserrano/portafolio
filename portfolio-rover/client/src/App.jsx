@@ -1,37 +1,55 @@
-import Navbar from "./components/Navbar.jsx";
-import Hero from "./components/Hero.jsx";
+import { useI18n } from "./i18n/LanguageProvider.jsx";
 import About from "./components/About.jsx";
-import Skills from "./components/Skills.jsx";
-import Projects from "./components/Projects.jsx";
-import Education from "./components/Education.jsx";
-import Contact from "./components/Contact.jsx";
+import { lazy, Suspense } from "react";
 import Footer from "./components/Footer.jsx";
-
-export const profile = {
-  name: "Rover Serrano Quiroz",
-  title: "Desarrollador Full Stack",
-  shortTitle: "Full Stack Dev",
-  location: "Cochabamba, Bolivia",
-  phrase:
-    "Ingeniero de Sistemas recién graduado. Construyo soluciones web, móviles e inteligentes que resuelven problemas reales.",
-  github: "https://github.com/roverserrano",
-  linkedin: "https://linkedin.com/in/rover-serrano",
-  email: "serranorover436@gmail.com",
-  whatsapp: "59171338567",
-};
-
+import Hero from "./components/Hero.jsx";
+import Journey from "./components/Journey.jsx";
+import Navbar from "./components/Navbar.jsx";
+import Projects from "./components/Projects.jsx";
+import ProofStrip from "./components/ProofStrip.jsx";
+import ScrollProgress from "./components/ScrollProgress.jsx";
+import Skills from "./components/Skills.jsx";
+import { profile as rawProfile } from "./data/profile.js";
+const Contact = lazy(() => import("./components/Contact.jsx"));
 export default function App() {
+  const { t, translateData } = useI18n();
+  const profile = translateData(rawProfile);
   return (
-    <div className="min-h-screen overflow-hidden bg-bg-primary text-text-primary">
+    <div className="relative min-h-screen overflow-x-clip bg-canvas text-ink">
+      <a className="skip-link" href="#contenido">
+        {t("Saltar al contenido")}
+      </a>
+
+      <ScrollProgress />
       <Navbar profile={profile} />
-      <main>
+
+      <main id="contenido" tabIndex={-1} className="outline-none">
         <Hero profile={profile} />
-        <About />
-        <Skills />
+        <ProofStrip />
         <Projects />
-        <Education />
-        <Contact profile={profile} />
+        <About profile={profile} />
+        <Skills profile={profile} />
+        <Journey profile={profile} />
+        <section id="contacto" aria-label={t("Contacto")}>
+          <Suspense
+            fallback={
+              <section
+                className="section-shell min-h-[720px]"
+                aria-label={t("Contacto")}
+              >
+                <div className="container-page">
+                  <a className="text-link" href={`mailto:${profile.email}`}>
+                    {t("Contactar a Rover por email")}
+                  </a>
+                </div>
+              </section>
+            }
+          >
+            <Contact profile={profile} />
+          </Suspense>
+        </section>
       </main>
+
       <Footer profile={profile} />
     </div>
   );

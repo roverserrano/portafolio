@@ -1,0 +1,22 @@
+export const profile = {
+  name: "Rover Serrano Quiroz",
+  shortName: "Rover Serrano",
+  initials: "RS",
+  role: "Desarrollador Full Stack Junior",
+  focus: "React · Node.js · IA aplicada",
+  location: "Cochabamba, Bolivia",
+  timezone: "GMT-4",
+  email: "serranorover436@gmail.com",
+  phone: "+591 71338567",
+  whatsapp: "59171338567",
+  github: "https://github.com/roverserrano",
+  linkedin: "https://linkedin.com/in/rover-serrano",
+  cvUrl: "/cv/Rover-Serrano-CV.pdf",
+  availability: "Disponible para roles full-time",
+  workModes: "Remoto · Cochabamba",
+  languages: "Español nativo · Inglés B1",
+  responseTime: "Respondo en menos de 24 horas",
+  headline: "Construyo productos full stack que resuelven problemas reales.",
+  summary:
+    "Licenciado en Ingeniería de Sistemas Informáticos (Univalle, 2026). Mi proyecto de grado, BoviSense, combina IA en edge, IoT y una app Flutter para reducir el conteo de ganado de ~2 horas a ~5 minutos por lote. Busco mi primer rol full stack.",
+};

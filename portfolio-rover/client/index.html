@@ -3,45 +3,112 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="dark" />
+    <meta name="theme-color" content="#080a0f" />
     <meta name="robots" content="index, follow, max-image-preview:large" />
     <meta name="author" content="Rover Serrano Quiroz" />
-    <meta name="theme-color" content="#0f172a" />
     <meta
       name="description"
-      content="Portafolio profesional de Rover Serrano Quiroz, desarrollador full stack en Cochabamba, Bolivia. Proyectos en React, IA aplicada, Flutter, APIs e integracion hardware-software."
+      content="Portafolio de Rover Serrano, desarrollador full stack junior en Cochabamba, Bolivia. Proyectos con React, Node.js, IA aplicada e IoT. Casos de estudio y CV descargable."
     />
     <link rel="canonical" href="https://portafolio-jidm.onrender.com/" />
+
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <link rel="preload" href="/fonts/space-grotesk-latin.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin />
+    <link
+      rel="preload"
+      as="image"
+      href="/projects/bovisense-field.webp"
+      imagesrcset="/projects/bovisense-field-400.webp 400w, /projects/bovisense-field-600.webp 600w, /projects/bovisense-field-800.webp 800w, /projects/bovisense-field-1200.webp 1200w, /projects/bovisense-field.webp 1600w"
+      imagesizes="(min-width: 1024px) 600px, calc(100vw - 40px)"
+      fetchpriority="high"
+    />
+
     <meta property="og:locale" content="es_BO" />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="Portafolio Rover Serrano Quiroz" />
-    <meta property="og:title" content="Rover Serrano Quiroz | Desarrollador Full Stack" />
+    <meta property="og:site_name" content="Rover Serrano — Full Stack Junior" />
+    <meta
+      property="og:title"
+      content="Rover Serrano | Desarrollador Full Stack Junior"
+    />
     <meta
       property="og:description"
-      content="Portafolio profesional con proyectos de desarrollo web, IA aplicada e integracion de software con hardware."
+      content="React, Node.js e IA aplicada. Cuatro proyectos end-to-end, casos de estudio y CV. Disponible para roles full-time o remotos."
     />
     <meta property="og:url" content="https://portafolio-jidm.onrender.com/" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Rover Serrano Quiroz | Desarrollador Full Stack" />
+    <meta
+      property="og:image"
+      content="https://portafolio-jidm.onrender.com/og-image.jpg"
+    />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="Rover Serrano, desarrollador full stack junior. Portafolio con BoviSense, React, Node.js e IA aplicada."
+    />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Rover Serrano | Desarrollador Full Stack Junior"
+    />
     <meta
       name="twitter:description"
-      content="Proyectos full stack, IA aplicada y desarrollo de soluciones web y moviles."
+      content="React, Node.js e IA aplicada. Proyectos end-to-end, casos de estudio y CV descargable."
     />
-    <title>Rover Serrano Quiroz | Desarrollador Full Stack en Cochabamba</title>
+    <meta
+      name="twitter:image"
+      content="https://portafolio-jidm.onrender.com/og-image.jpg"
+    />
+    <meta
+      name="twitter:image:alt"
+      content="Rover Serrano, desarrollador full stack junior. Portafolio con BoviSense, React, Node.js e IA aplicada."
+    />
+
+    <title>Rover Serrano | Desarrollador Full Stack Junior</title>
+
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@graph": [
           {
             "@type": "Person",
+            "@id": "https://portafolio-jidm.onrender.com/#person",
             "name": "Rover Serrano Quiroz",
-            "jobTitle": "Desarrollador Full Stack",
+            "jobTitle": "Desarrollador Full Stack Junior",
+            "description": "Desarrollador full stack junior en Cochabamba, Bolivia. React, Node.js, IA aplicada e IoT. Licenciado en Ingeniería de Sistemas Informáticos (Univalle, 2026).",
             "url": "https://portafolio-jidm.onrender.com/",
+            "image": "https://portafolio-jidm.onrender.com/og-image.jpg",
+            "email": "mailto:serranorover436@gmail.com",
+            "telephone": "+591 71338567",
             "address": {
               "@type": "PostalAddress",
               "addressLocality": "Cochabamba",
               "addressCountry": "BO"
             },
-            "email": "mailto:serranorover436@gmail.com",
+            "alumniOf": {
+              "@type": "CollegeOrUniversity",
+              "name": "Universidad Privada del Valle (Univalle)"
+            },
+            "knowsAbout": [
+              "Desarrollo web full stack",
+              "React",
+              "Node.js",
+              "JavaScript",
+              "TypeScript",
+              "Python",
+              "Flutter",
+              "Inteligencia artificial",
+              "Visión por computadora",
+              "IoT"
+            ],
+            "knowsLanguage": [
+              { "@type": "Language", "name": "Español" },
+              { "@type": "Language", "name": "Inglés (B1)" }
+            ],
             "sameAs": [
               "https://github.com/roverserrano",
               "https://linkedin.com/in/rover-serrano"
@@ -49,16 +116,24 @@
           },
           {
             "@type": "WebSite",
-            "name": "Portafolio Rover Serrano Quiroz",
+            "@id": "https://portafolio-jidm.onrender.com/#website",
             "url": "https://portafolio-jidm.onrender.com/",
-            "inLanguage": "es"
+            "name": "Rover Serrano — Portafolio",
+            "description": "Portafolio de Rover Serrano, desarrollador full stack junior. Proyectos, casos de estudio y CV.",
+            "inLanguage": "es",
+            "about": {
+              "@id": "https://portafolio-jidm.onrender.com/#person"
+            }
           }
         ]
       }
     </script>
   </head>
   <body>
-    <noscript>Este sitio requiere JavaScript para cargar el contenido completo del portafolio.</noscript>
+    <noscript>
+      <style>.reveal{opacity:1!important;transform:none!important}.hero-copy,.hero-project{animation:none!important}.detection-toggle{display:none}</style>
+      <p style="position:relative;z-index:100;margin:0;padding:1rem;background:#121821;color:#f2efe9;font-family:system-ui">Los controles interactivos requieren JavaScript. Puedes escribir a <a href="mailto:serranorover436@gmail.com">serranorover436@gmail.com</a>.</p>
+    </noscript>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>

@@ -1,0 +1,1327 @@
+{
+  "Saltar al contenido": {
+    "en": "Skip to content",
+    "fr": "Aller au contenu",
+    "pt": "Ir para o conteúdo"
+  },
+  "Contacto": {
+    "en": "Contact",
+    "fr": "Contact",
+    "pt": "Contato"
+  },
+  "Contactar a Rover por email": {
+    "en": "Email Rover",
+    "fr": "Contacter Rover par e-mail",
+    "pt": "Enviar e-mail para Rover"
+  },
+  "Sobre mí": {
+    "en": "About me",
+    "fr": "À propos",
+    "pt": "Sobre mim"
+  },
+  "Curiosidad técnica. Criterio de producto.": {
+    "en": "Technical curiosity. Product thinking.",
+    "fr": "Curiosité technique. Sens du produit.",
+    "pt": "Curiosidade técnica. Visão de produto."
+  },
+  "Me interesa el software que llega a alguien y le resuelve algo. Por eso trabajo de la interfaz al dato, y disfruto especialmente cuando el problema mezcla web, IA o hardware.": {
+    "en": "I care about software that solves a problem for someone. I work from interface to data, and especially enjoy projects that combine web development, AI and hardware.",
+    "fr": "Je m’intéresse aux logiciels qui répondent à un besoin concret. Je travaille de l’interface aux données et j’apprécie particulièrement les projets qui associent web, IA et matériel.",
+    "pt": "Gosto de criar software que resolva um problema concreto. Trabalho da interface aos dados e me interesso especialmente por projetos que combinam web, IA e hardware."
+  },
+  "Soy Rover, licenciado en Ingeniería de Sistemas Informáticos (Univalle, 2026). Mi proyecto de grado,": {
+    "en": "I’m Rover, a Computer Systems Engineering graduate (Univalle, 2026). My final-year project,",
+    "fr": "Je suis Rover, diplômé en ingénierie des systèmes informatiques (Univalle, 2026). Mon projet de fin d’études,",
+    "pt": "Sou Rover, formado em Engenharia de Sistemas Informáticos (Univalle, 2026). Meu projeto de conclusão de curso,"
+  },
+  ", me llevó de la visión por computadora en una Jetson hasta una app Flutter y un backend en Node. Ahí entendí que el software útil vive en la intersección entre producto, datos e infraestructura.": {
+    "en": ", took me from computer vision on a Jetson to a Flutter app and a Node backend. It taught me that useful software connects product, data and infrastructure.",
+    "fr": ", m’a mené de la vision par ordinateur sur Jetson à une application Flutter et un backend Node. J’y ai compris qu’un logiciel utile relie produit, données et infrastructure.",
+    "pt": ", me levou da visão computacional em uma Jetson a um aplicativo Flutter e um backend Node. Aprendi que um software útil conecta produto, dados e infraestrutura."
+  },
+  "Antes de eso construí sistemas de gestión, una bóveda de credenciales y una plataforma de análisis de sentimiento. En todos el patrón fue el mismo:": {
+    "en": "Before that, I built management systems, a credential vault and a sentiment analysis platform. The approach was always the same:",
+    "fr": "Auparavant, j’ai construit des systèmes de gestion, un coffre-fort d’identifiants et une plateforme d’analyse des sentiments. Mon approche reste la même :",
+    "pt": "Antes disso, desenvolvi sistemas de gestão, um cofre de credenciais e uma plataforma de análise de sentimentos. A abordagem foi sempre a mesma:"
+  },
+  "entender el problema, reducir el alcance y entregar algo que funcione": {
+    "en": "understand the problem, narrow the scope and deliver something that works",
+    "fr": "comprendre le problème, préciser le périmètre et livrer une solution fonctionnelle",
+    "pt": "entender o problema, delimitar o escopo e entregar algo que funcione"
+  },
+  "Busco mi primer rol full stack en un equipo que construya producto, revise código y dé feedback directo. Trabajo remoto o desde Cochabamba.": {
+    "en": "I’m looking for my first full-stack role on a team that builds products, reviews code and shares direct feedback. I’m available remotely or in Cochabamba.",
+    "fr": "Je recherche mon premier poste full stack dans une équipe qui construit des produits, relit le code et partage des retours directs. Je suis disponible à distance ou à Cochabamba.",
+    "pt": "Busco minha primeira oportunidade full stack em uma equipe que desenvolva produtos, revise código e compartilhe feedback direto. Trabalho remotamente ou em Cochabamba."
+  },
+  "Lo que busco": {
+    "en": "What I’m looking for",
+    "fr": "Ce que je recherche",
+    "pt": "O que busco"
+  },
+  "Mi primer rol full stack, en un equipo que construya en serio.": {
+    "en": "My first full-stack role, on a team that builds with purpose.",
+    "fr": "Un premier poste full stack, dans une équipe engagée.",
+    "pt": "Minha primeira oportunidade full stack, em uma equipe comprometida."
+  },
+  "Me interesa participar desde el diseño de la solución hasta el deploy. Aprendo rápido, pido feedback y documento lo que hago.": {
+    "en": "I want to contribute from solution design to deployment. I learn quickly, ask for feedback and document my work.",
+    "fr": "Je souhaite participer de la conception au déploiement. J’apprends vite, je demande des retours et je documente mon travail.",
+    "pt": "Quero participar da concepção da solução à implantação. Aprendo rápido, peço feedback e documento meu trabalho."
+  },
+  "Disponibilidad": {
+    "en": "Availability",
+    "fr": "Disponibilité",
+    "pt": "Disponibilidade"
+  },
+  "Modalidad": {
+    "en": "Work arrangement",
+    "fr": "Mode de travail",
+    "pt": "Modalidade"
+  },
+  "Idiomas": {
+    "en": "Languages",
+    "fr": "Langues",
+    "pt": "Idiomas"
+  },
+  "Descargar CV": {
+    "en": "Download CV (Spanish)",
+    "fr": "Télécharger le CV (espagnol)",
+    "pt": "Baixar CV (espanhol)"
+  },
+  "Hablemos de una oportunidad": {
+    "en": "Let’s discuss an opportunity",
+    "fr": "Parlons d’une opportunité",
+    "pt": "Vamos conversar sobre uma oportunidade"
+  },
+  "Una arquitectura conectada": {
+    "en": "A connected architecture",
+    "fr": "Une architecture connectée",
+    "pt": "Uma arquitetura conectada"
+  },
+  "Explora cada etapa": {
+    "en": "Explore each stage",
+    "fr": "Explorez chaque étape",
+    "pt": "Explore cada etapa"
+  },
+  "Recreación visual de BoviSense: cámara y dispositivo de campo junto a ganado en un corral al atardecer.": {
+    "en": "BoviSense visual concept: a camera and field device beside cattle in a corral at sunset.",
+    "fr": "Reconstitution visuelle de BoviSense : caméra et dispositif de terrain près de bovins dans un enclos au coucher du soleil.",
+    "pt": "Recriação visual do BoviSense: câmera e dispositivo de campo junto ao gado em um curral ao pôr do sol."
+  },
+  "Proyecto de grado": {
+    "en": "Final-year project",
+    "fr": "Projet de fin d’études",
+    "pt": "Projeto de conclusão de curso"
+  },
+  "Bovino": {
+    "en": "Cattle",
+    "fr": "Bovin",
+    "pt": "Bovino"
+  },
+  "IA aplicada, fuera de la pantalla.": {
+    "en": "Applied AI, beyond the screen.",
+    "fr": "L’IA appliquée, sur le terrain.",
+    "pt": "IA aplicada, além da tela."
+  },
+  "Del campo": {
+    "en": "From the field",
+    "fr": "Du terrain",
+    "pt": "Do campo"
+  },
+  "a la aplicación.": {
+    "en": "to the app.",
+    "fr": "à l’application.",
+    "pt": "ao aplicativo."
+  },
+  "Ocultar detecciones": {
+    "en": "Hide detections",
+    "fr": "Masquer les détections",
+    "pt": "Ocultar detecções"
+  },
+  "Ver detecciones": {
+    "en": "Show detections",
+    "fr": "Afficher les détections",
+    "pt": "Mostrar detecções"
+  },
+  "mAP del prototipo": {
+    "en": "Prototype mAP",
+    "fr": "mAP du prototype",
+    "pt": "mAP do protótipo"
+  },
+  "conteo por lote": {
+    "en": "counting per batch",
+    "fr": "comptage par lot",
+    "pt": "contagem por lote"
+  },
+  "+ Mobile": {
+    "en": "+ Mobile",
+    "fr": "+ Mobile",
+    "pt": "+ Mobile"
+  },
+  "Recreación visual con IA · detecciones ilustrativas": {
+    "en": "AI-generated visual · illustrative detections",
+    "fr": "Visuel créé par IA · détections illustratives",
+    "pt": "Visual criado com IA · detecções ilustrativas"
+  },
+  "Hablemos de lo que sigue.": {
+    "en": "Let’s talk about what’s next.",
+    "fr": "Parlons de la suite.",
+    "pt": "Vamos conversar sobre o próximo passo."
+  },
+  "Estoy disponible para roles full-time o remotos. Si te interesa mi perfil, escribime y te respondo en menos de 24 horas.": {
+    "en": "I’m available for full-time or remote roles. If my profile fits your team, send me a message. I reply within 24 hours.",
+    "fr": "Je suis disponible pour un poste à temps plein ou à distance. Si mon profil vous intéresse, écrivez-moi. Je réponds sous 24 heures.",
+    "pt": "Estou disponível para oportunidades em tempo integral ou remotas. Se meu perfil combina com sua equipe, envie uma mensagem. Respondo em até 24 horas."
+  },
+  "Disponible ahora": {
+    "en": "Available now",
+    "fr": "Disponible actuellement",
+    "pt": "Disponível agora"
+  },
+  "Full stack": {
+    "en": "Full stack",
+    "fr": "Full stack",
+    "pt": "Full stack"
+  },
+  "React / Node": {
+    "en": "React / Node",
+    "fr": "React / Node",
+    "pt": "React / Node"
+  },
+  "IA aplicada": {
+    "en": "Applied AI",
+    "fr": "IA appliquée",
+    "pt": "IA aplicada"
+  },
+  "Mensaje directo": {
+    "en": "Direct message",
+    "fr": "Message direct",
+    "pt": "Mensagem direta"
+  },
+  "Contame qué tenés en mente.": {
+    "en": "Tell me what you have in mind.",
+    "fr": "Parlez-moi de votre projet.",
+    "pt": "Conte o que você tem em mente."
+  },
+  "Mensaje recibido": {
+    "en": "Message received",
+    "fr": "Message reçu",
+    "pt": "Mensagem recebida"
+  },
+  "Gracias por escribir. Te respondo en menos de 24 horas. Si es urgente, podés escribirme por WhatsApp.": {
+    "en": "Thanks for getting in touch. I’ll reply within 24 hours. For urgent enquiries, you can message me on WhatsApp.",
+    "fr": "Merci pour votre message. Je vous répondrai sous 24 heures. En cas d’urgence, vous pouvez me contacter sur WhatsApp.",
+    "pt": "Obrigado pela mensagem. Responderei em até 24 horas. Se for urgente, você pode falar comigo pelo WhatsApp."
+  },
+  "Escribir por WhatsApp": {
+    "en": "Message on WhatsApp",
+    "fr": "Écrire sur WhatsApp",
+    "pt": "Conversar pelo WhatsApp"
+  },
+  "Enviar otro mensaje": {
+    "en": "Send another message",
+    "fr": "Envoyer un autre message",
+    "pt": "Enviar outra mensagem"
+  },
+  "Nombre": {
+    "en": "Name",
+    "fr": "Nom",
+    "pt": "Nome"
+  },
+  "Tu nombre": {
+    "en": "Your name",
+    "fr": "Votre nom",
+    "pt": "Seu nome"
+  },
+  "Email": {
+    "en": "Email",
+    "fr": "E-mail",
+    "pt": "E-mail"
+  },
+  "tu@email.com": {
+    "en": "you@example.com",
+    "fr": "vous@exemple.fr",
+    "pt": "voce@exemplo.com"
+  },
+  "Mensaje": {
+    "en": "Message",
+    "fr": "Message",
+    "pt": "Mensagem"
+  },
+  "Contame sobre el rol, el equipo o el proyecto...": {
+    "en": "Tell me about the role, team or project...",
+    "fr": "Parlez-moi du poste, de l’équipe ou du projet…",
+    "pt": "Conte sobre a vaga, a equipe ou o projeto..."
+  },
+  "Enviando...": {
+    "en": "Sending...",
+    "fr": "Envoi en cours…",
+    "pt": "Enviando..."
+  },
+  "Enviar mensaje": {
+    "en": "Send message",
+    "fr": "Envoyer le message",
+    "pt": "Enviar mensagem"
+  },
+  "Algo salió mal. Probá de nuevo o escribime directamente a": {
+    "en": "Something went wrong. Try again or email me directly at",
+    "fr": "Une erreur est survenue. Réessayez ou écrivez-moi directement à",
+    "pt": "Algo deu errado. Tente novamente ou escreva diretamente para"
+  },
+  "BoviSense / vista de producto": {
+    "en": "BoviSense / product concept",
+    "fr": "BoviSense / concept produit",
+    "pt": "BoviSense / conceito do produto"
+  },
+  "CONCEPTO": {
+    "en": "CONCEPT",
+    "fr": "CONCEPT",
+    "pt": "CONCEITO"
+  },
+  "Recreación de interfaz · datos ilustrativos": {
+    "en": "Interface concept · sample data",
+    "fr": "Interface reconstituée · données fictives",
+    "pt": "Interface recriada · dados ilustrativos"
+  },
+  "por lote · antes ~2 h": {
+    "en": "per batch · previously ~2 h",
+    "fr": "par lot · auparavant ~2 h",
+    "pt": "por lote · antes ~2 h"
+  },
+  "Proyecto destacado": {
+    "en": "Featured project",
+    "fr": "Projet à la une",
+    "pt": "Projeto em destaque"
+  },
+  "detección en edge": {
+    "en": "edge detection",
+    "fr": "détection en périphérie",
+    "pt": "detecção na borda"
+  },
+  "El problema": {
+    "en": "The problem",
+    "fr": "Le problème",
+    "pt": "O problema"
+  },
+  "Mi contribución": {
+    "en": "My contribution",
+    "fr": "Ma contribution",
+    "pt": "Minha contribuição"
+  },
+  "Resultado": {
+    "en": "Result",
+    "fr": "Résultat",
+    "pt": "Resultado"
+  },
+  "Ver caso de estudio": {
+    "en": "View case study",
+    "fr": "Voir l’étude de cas",
+    "pt": "Ver estudo de caso"
+  },
+  "Ver código": {
+    "en": "View code",
+    "fr": "Voir le code",
+    "pt": "Ver código"
+  },
+  "Volver al inicio": {
+    "en": "Back to home",
+    "fr": "Retour à l’accueil",
+    "pt": "Voltar ao início"
+  },
+  "· Cochabamba": {
+    "en": "· Cochabamba",
+    "fr": "· Cochabamba",
+    "pt": "· Cochabamba"
+  },
+  "Navegación del pie de página": {
+    "en": "Footer navigation",
+    "fr": "Navigation de bas de page",
+    "pt": "Navegação do rodapé"
+  },
+  "CV": {
+    "en": "CV (ES)",
+    "fr": "CV (ES)",
+    "pt": "CV (ES)"
+  },
+  "Redes y contacto": {
+    "en": "Social links and contact",
+    "fr": "Réseaux et contact",
+    "pt": "Redes e contato"
+  },
+  "Enviar un correo": {
+    "en": "Send an email",
+    "fr": "Envoyer un e-mail",
+    "pt": "Enviar um e-mail"
+  },
+  "GitHub de Rover Serrano": {
+    "en": "Rover Serrano on GitHub",
+    "fr": "GitHub de Rover Serrano",
+    "pt": "GitHub de Rover Serrano"
+  },
+  "LinkedIn de Rover Serrano": {
+    "en": "Rover Serrano on LinkedIn",
+    "fr": "LinkedIn de Rover Serrano",
+    "pt": "LinkedIn de Rover Serrano"
+  },
+  ". Diseñado y construido con React y Tailwind.": {
+    "en": ". Designed and built with React and Tailwind.",
+    "fr": ". Conçu et développé avec React et Tailwind.",
+    "pt": ". Criado e desenvolvido com React e Tailwind."
+  },
+  "Volver arriba": {
+    "en": "Back to top",
+    "fr": "Retour en haut",
+    "pt": "Voltar ao topo"
+  },
+  "Disponible para mi primer rol full-time": {
+    "en": "Available for my first full-time role",
+    "fr": "Disponible pour un premier poste à temps plein",
+    "pt": "Disponível para minha primeira vaga em tempo integral"
+  },
+  "Hola, soy": {
+    "en": "Hi, I’m",
+    "fr": "Bonjour, je suis",
+    "pt": "Olá, sou"
+  },
+  "Desarrollador Full Stack Junior": {
+    "en": "Junior Full Stack Developer",
+    "fr": "Développeur Full Stack Junior",
+    "pt": "Desenvolvedor Full Stack Júnior"
+  },
+  "De la interfaz": {
+    "en": "From interface",
+    "fr": "De l’interface",
+    "pt": "Da interface"
+  },
+  "al dato.": {
+    "en": "to data.",
+    "fr": "aux données.",
+    "pt": "aos dados."
+  },
+  "Todo conecta.": {
+    "en": "It all connects.",
+    "fr": "Tout se connecte.",
+    "pt": "Tudo se conecta."
+  },
+  "Construyo aplicaciones con": {
+    "en": "I build applications with",
+    "fr": "Je développe des applications avec",
+    "pt": "Desenvolvo aplicações com"
+  },
+  "React y Node.js": {
+    "en": "React and Node.js",
+    "fr": "React et Node.js",
+    "pt": "React e Node.js"
+  },
+  ", desde la experiencia de usuario hasta la API. Mi diferencial: experiencia integrando IA, dispositivos y aplicaciones en BoviSense.": {
+    "en": ", from user experience to APIs. My added value: hands-on experience connecting AI, devices and applications in BoviSense.",
+    "fr": ", de l’expérience utilisateur aux API. Mon atout : une expérience concrète de l’intégration d’IA, de dispositifs et d’applications avec BoviSense.",
+    "pt": ", da experiência do usuário às APIs. Meu diferencial: experiência prática integrando IA, dispositivos e aplicações no BoviSense."
+  },
+  "proyectos con código": {
+    "en": "projects with real code",
+    "fr": "projets avec du code",
+    "pt": "projetos com código"
+  },
+  "con BoviSense": {
+    "en": "with BoviSense",
+    "fr": "avec BoviSense",
+    "pt": "com BoviSense"
+  },
+  "Explorar proyectos": {
+    "en": "Explore projects",
+    "fr": "Voir les projets",
+    "pt": "Explorar projetos"
+  },
+  "Remoto ·": {
+    "en": "Remote ·",
+    "fr": "À distance ·",
+    "pt": "Remoto ·"
+  },
+  "Ver GitHub de Rover Serrano": {
+    "en": "Visit Rover Serrano’s GitHub",
+    "fr": "Voir le GitHub de Rover Serrano",
+    "pt": "Visitar o GitHub de Rover Serrano"
+  },
+  "Una idea llevada al mundo real": {
+    "en": "An idea brought into the real world",
+    "fr": "Une idée mise en pratique",
+    "pt": "Uma ideia aplicada ao mundo real"
+  },
+  "Visión artificial · IoT · Full Stack": {
+    "en": "Computer vision · IoT · Full Stack",
+    "fr": "Vision par ordinateur · IoT · Full Stack",
+    "pt": "Visão computacional · IoT · Full Stack"
+  },
+  "Conocer BoviSense": {
+    "en": "Explore BoviSense",
+    "fr": "Découvrir BoviSense",
+    "pt": "Conhecer o BoviSense"
+  },
+  "El trabajo habla primero": {
+    "en": "Let the work speak first",
+    "fr": "Les projets parlent d’abord",
+    "pt": "O trabalho fala primeiro"
+  },
+  "Diseño con intención. Código con propósito.": {
+    "en": "Intentional design. Purposeful code.",
+    "fr": "Du sens dans le design et le code.",
+    "pt": "Design com intenção. Código com propósito."
+  },
+  "Trayectoria": {
+    "en": "Background",
+    "fr": "Parcours",
+    "pt": "Trajetória"
+  },
+  "Una base sólida. Mucho por construir.": {
+    "en": "A solid foundation. More to build.",
+    "fr": "Des bases solides. Encore à construire.",
+    "pt": "Uma base sólida. Muito a construir."
+  },
+  "Mi experiencia empieza en proyectos de grado, académicos y personales: problemas concretos, decisiones técnicas y aprendizaje al construir.": {
+    "en": "My experience starts with final-year, academic and personal projects: concrete problems, technical decisions and learning by building.",
+    "fr": "Mon expérience débute avec des projets de fin d’études, universitaires et personnels : des problèmes concrets, des choix techniques et un apprentissage par la pratique.",
+    "pt": "Minha experiência começa com projetos de conclusão de curso, acadêmicos e pessoais: problemas concretos, decisões técnicas e aprendizado na prática."
+  },
+  "Experiencia práctica": {
+    "en": "Hands-on experience",
+    "fr": "Expérience pratique",
+    "pt": "Experiência prática"
+  },
+  "Formación": {
+    "en": "Education",
+    "fr": "Formation",
+    "pt": "Formação"
+  },
+  "Formación continua": {
+    "en": "Ongoing learning",
+    "fr": "Formation continue",
+    "pt": "Formação contínua"
+  },
+  "Hablemos": {
+    "en": "Let’s talk",
+    "fr": "Parlons-en",
+    "pt": "Vamos conversar"
+  },
+  "Navegación principal": {
+    "en": "Main navigation",
+    "fr": "Navigation principale",
+    "pt": "Navegação principal"
+  },
+  "Ir al inicio": {
+    "en": "Go to home",
+    "fr": "Aller à l’accueil",
+    "pt": "Ir para o início"
+  },
+  "Cerrar menú": {
+    "en": "Close menu",
+    "fr": "Fermer le menu",
+    "pt": "Fechar menu"
+  },
+  "Abrir menú": {
+    "en": "Open menu",
+    "fr": "Ouvrir le menu",
+    "pt": "Abrir menu"
+  },
+  "Ver caso": {
+    "en": "View case",
+    "fr": "Voir le cas",
+    "pt": "Ver caso"
+  },
+  "Visualización de producto · recreación con IA": {
+    "en": "Product visual · AI-generated concept",
+    "fr": "Visuel produit · reconstitution par IA",
+    "pt": "Visual do produto · recriação com IA"
+  },
+  "Caso de estudio": {
+    "en": "Case study",
+    "fr": "Étude de cas",
+    "pt": "Estudo de caso"
+  },
+  "Código en GitHub": {
+    "en": "Code on GitHub",
+    "fr": "Code sur GitHub",
+    "pt": "Código no GitHub"
+  },
+  "Repositorio privado": {
+    "en": "Private repository",
+    "fr": "Dépôt privé",
+    "pt": "Repositório privado"
+  },
+  "Cerrar caso de estudio": {
+    "en": "Close case study",
+    "fr": "Fermer l’étude de cas",
+    "pt": "Fechar estudo de caso"
+  },
+  "Recreación visual de producto · datos ilustrativos": {
+    "en": "Product visual concept · sample data",
+    "fr": "Reconstitution visuelle du produit · données fictives",
+    "pt": "Recriação visual do produto · dados ilustrativos"
+  },
+  "El reto": {
+    "en": "The challenge",
+    "fr": "Le défi",
+    "pt": "O desafio"
+  },
+  "La solución": {
+    "en": "The solution",
+    "fr": "La solution",
+    "pt": "A solução"
+  },
+  "Lo que me llevo": {
+    "en": "What I learned",
+    "fr": "Ce que j’ai appris",
+    "pt": "O que aprendi"
+  },
+  "Ver código en GitHub": {
+    "en": "View code on GitHub",
+    "fr": "Voir le code sur GitHub",
+    "pt": "Ver código no GitHub"
+  },
+  "Solicitar acceso": {
+    "en": "Request access",
+    "fr": "Demander l’accès",
+    "pt": "Solicitar acesso"
+  },
+  "Seguir explorando": {
+    "en": "Keep exploring",
+    "fr": "Continuer à explorer",
+    "pt": "Continuar explorando"
+  },
+  "01 / Proyectos seleccionados": {
+    "en": "01 / Selected projects",
+    "fr": "01 / Projets sélectionnés",
+    "pt": "01 / Projetos selecionados"
+  },
+  "Ideas que se convierten en sistemas.": {
+    "en": "Ideas that become working systems.",
+    "fr": "Des idées devenues des systèmes.",
+    "pt": "Ideias que se tornam sistemas."
+  },
+  "De una cámara en el campo a una API, una bóveda móvil o un sistema hospitalario. El problema, mi contribución y las decisiones detrás de cada proyecto.": {
+    "en": "From a field camera to an API, a mobile vault or a hospital system. Explore the problem, my contribution and the decisions behind each project.",
+    "fr": "D’une caméra sur le terrain à une API, un coffre-fort mobile ou un système hospitalier. Découvrez le problème, ma contribution et les choix derrière chaque projet.",
+    "pt": "De uma câmera no campo a uma API, um cofre móvel ou um sistema hospitalar. Conheça o problema, minha contribuição e as decisões por trás de cada projeto."
+  },
+  "Los casos de estudio incluyen el contexto, mi rol y las decisiones técnicas. El código público está en GitHub; el proyecto hospitalario se comparte bajo solicitud. Las vistas de producto son recreaciones ilustrativas, con datos de ejemplo.": {
+    "en": "The case studies cover context, my role and technical decisions. Public code is on GitHub; the hospital project is available on request. Product visuals are illustrative concepts with sample data.",
+    "fr": "Les études de cas présentent le contexte, mon rôle et les choix techniques. Le code public est sur GitHub ; le projet hospitalier est disponible sur demande. Les visuels produit sont des reconstitutions avec des données fictives.",
+    "pt": "Os estudos de caso apresentam o contexto, meu papel e as decisões técnicas. O código público está no GitHub; o projeto hospitalar está disponível mediante solicitação. Os visuais são recriações ilustrativas com dados de exemplo."
+  },
+  "Áreas de desarrollo": {
+    "en": "Development areas",
+    "fr": "Domaines de développement",
+    "pt": "Áreas de desenvolvimento"
+  },
+  "Stack": {
+    "en": "Tech stack",
+    "fr": "Technologies",
+    "pt": "Tecnologias"
+  },
+  "El stack con el que construyo.": {
+    "en": "The stack I build with.",
+    "fr": "Les technologies que j’utilise.",
+    "pt": "As tecnologias com que desenvolvo."
+  },
+  "Marco mi nivel real: core, intermedio y familiar. Cada tecnología core tiene un proyecto detrás.": {
+    "en": "My levels reflect actual use: core, intermediate and familiar. Every core technology is backed by a project.",
+    "fr": "Mes niveaux reflètent ma pratique : principal, intermédiaire et notions. Chaque technologie principale est utilisée dans un projet.",
+    "pt": "Os níveis refletem minha prática: principal, intermediário e familiar. Cada tecnologia principal tem um projeto como referência."
+  },
+  "Niveles de experiencia": {
+    "en": "Experience levels",
+    "fr": "Niveaux d’expérience",
+    "pt": "Níveis de experiência"
+  },
+  "Core = uso frecuente · Intermedio = proyectos concretos · Familiar = bases y experiencia puntual": {
+    "en": "Core = frequent use · Intermediate = project experience · Familiar = foundations and limited use",
+    "fr": "Principal = usage fréquent · Intermédiaire = utilisé en projet · Notions = bases et usage ponctuel",
+    "pt": "Principal = uso frequente · Intermediário = experiência em projetos · Familiar = bases e uso pontual"
+  },
+  "herramientas": {
+    "en": "tools",
+    "fr": "outils",
+    "pt": "ferramentas"
+  },
+  "¿Querés el detalle completo de cursos y certificaciones?": {
+    "en": "Want the full list of courses and training?",
+    "fr": "Vous souhaitez le détail des cours et formations ?",
+    "pt": "Quer conhecer todos os cursos e formações?"
+  },
+  "Ver CV completo": {
+    "en": "Full CV (Spanish)",
+    "fr": "CV complet (espagnol)",
+    "pt": "CV completo (espanhol)"
+  },
+  "Idioma": {
+    "en": "Language",
+    "fr": "Langue",
+    "pt": "Idioma"
+  },
+  "Seleccionar idioma": {
+    "en": "Select language",
+    "fr": "Choisir la langue",
+    "pt": "Selecionar idioma"
+  },
+  "Ver el caso de estudio de {name}": {
+    "en": "View the {name} case study",
+    "fr": "Voir l’étude de cas de {name}",
+    "pt": "Ver o estudo de caso de {name}"
+  },
+  "Nuevo contacto desde el portafolio": {
+    "en": "New portfolio enquiry",
+    "fr": "Nouveau contact depuis le portfolio",
+    "pt": "Novo contato pelo portfólio"
+  },
+  "Los controles interactivos requieren JavaScript. Puedes escribir a": {
+    "en": "Interactive controls require JavaScript. You can email",
+    "fr": "Les contrôles interactifs nécessitent JavaScript. Vous pouvez écrire à",
+    "pt": "Os controles interativos precisam de JavaScript. Você pode escrever para"
+  },
+  "Español": {
+    "en": "Spanish",
+    "fr": "Espagnol",
+    "pt": "Espanhol"
+  },
+  "Inglés": {
+    "en": "English",
+    "fr": "Anglais",
+    "pt": "Inglês"
+  },
+  "Inglés (B1)": {
+    "en": "English (B1)",
+    "fr": "Anglais (B1)",
+    "pt": "Inglês (B1)"
+  },
+  "Cochabamba, Bolivia": {
+    "en": "Cochabamba, Bolivia",
+    "fr": "Cochabamba, Bolivie",
+    "pt": "Cochabamba, Bolívia"
+  },
+  "React · Node.js · IA aplicada": {
+    "en": "React · Node.js · Applied AI",
+    "fr": "React · Node.js · IA appliquée",
+    "pt": "React · Node.js · IA aplicada"
+  },
+  "Disponible para roles full-time": {
+    "en": "Available for full-time roles",
+    "fr": "Disponible pour un poste à temps plein",
+    "pt": "Disponível para oportunidades em tempo integral"
+  },
+  "Remoto · Cochabamba": {
+    "en": "Remote · Cochabamba",
+    "fr": "À distance · Cochabamba",
+    "pt": "Remoto · Cochabamba"
+  },
+  "Español nativo · Inglés B1": {
+    "en": "Native Spanish · English B1",
+    "fr": "Espagnol natif · Anglais B1",
+    "pt": "Espanhol nativo · Inglês B1"
+  },
+  "Respondo en menos de 24 horas": {
+    "en": "I reply within 24 hours",
+    "fr": "Je réponds sous 24 heures",
+    "pt": "Respondo em até 24 horas"
+  },
+  "Construyo productos full stack que resuelven problemas reales.": {
+    "en": "I build full-stack products that solve real problems.",
+    "fr": "Je développe des produits full stack qui répondent à des besoins concrets.",
+    "pt": "Desenvolvo produtos full stack que resolvem problemas reais."
+  },
+  "Licenciado en Ingeniería de Sistemas Informáticos (Univalle, 2026). Mi proyecto de grado, BoviSense, combina IA en edge, IoT y una app Flutter para reducir el conteo de ganado de ~2 horas a ~5 minutos por lote. Busco mi primer rol full stack.": {
+    "en": "Computer Systems Engineering graduate (Univalle, 2026). My final-year project, BoviSense, combines edge AI, IoT and a Flutter app to reduce cattle counting from ~2 hours to ~5 minutes per batch. I’m looking for my first full-stack role.",
+    "fr": "Diplômé en ingénierie des systèmes informatiques (Univalle, 2026). Mon projet de fin d’études, BoviSense, associe IA en périphérie, IoT et application Flutter pour réduire le comptage du bétail de ~2 heures à ~5 minutes par lot. Je recherche mon premier poste full stack.",
+    "pt": "Formado em Engenharia de Sistemas Informáticos (Univalle, 2026). Meu projeto de conclusão de curso, BoviSense, combina IA na borda, IoT e um aplicativo Flutter para reduzir a contagem de gado de ~2 horas para ~5 minutos por lote. Busco minha primeira oportunidade full stack."
+  },
+  "Conteo de ganado con visión artificial en el borde.": {
+    "en": "Cattle counting with computer vision at the edge.",
+    "fr": "Comptage du bétail par vision artificielle en périphérie.",
+    "pt": "Contagem de gado com visão computacional na borda."
+  },
+  "IA · IoT · Full Stack": {
+    "en": "AI · IoT · Full Stack",
+    "fr": "IA · IoT · Full Stack",
+    "pt": "IA · IoT · Full Stack"
+  },
+  "Ago 2025 — Jun 2026": {
+    "en": "Aug 2025 — Jun 2026",
+    "fr": "Août 2025 — Juin 2026",
+    "pt": "Ago 2025 — Jun 2026"
+  },
+  "Los rancheros pierden horas contando ganado manualmente y los errores humanos afectan el control del hato.": {
+    "en": "Ranchers spend hours counting cattle manually, and human error makes herd tracking less reliable.",
+    "fr": "Les éleveurs passent des heures à compter le bétail manuellement, et les erreurs humaines compliquent le suivi du troupeau.",
+    "pt": "Produtores gastam horas contando o gado manualmente, e erros humanos prejudicam o controle do rebanho."
+  },
+  "Una cámara y una Jetson Orin Nano detectan y cuentan bovinos en tiempo real. Los datos viajan por LoRa hasta una app Flutter y un backend Node/Express.": {
+    "en": "A camera and a Jetson Orin Nano detect and count cattle in real time. Data flows through LoRa to a Flutter app and a Node/Express backend.",
+    "fr": "Une caméra et une Jetson Orin Nano détectent et comptent les bovins en temps réel. Les données transitent par LoRa vers une application Flutter et un backend Node/Express.",
+    "pt": "Uma câmera e uma Jetson Orin Nano detectam e contam bovinos em tempo real. Os dados passam por LoRa até um aplicativo Flutter e um backend Node/Express."
+  },
+  "mAP 0.87 en detección. El conteo manual de ~2 horas se redujo a ~5 minutos por lote.": {
+    "en": "Detection mAP of 0.87. Counting time dropped from ~2 hours manually to ~5 minutes per batch.",
+    "fr": "mAP de détection de 0.87. Le comptage est passé de ~2 heures manuellement à ~5 minutes par lot.",
+    "pt": "mAP de detecção de 0.87. A contagem passou de ~2 horas manualmente para ~5 minutos por lote."
+  },
+  "Arquitectura completa: modelo de detección, integración de hardware, API, app móvil y pruebas end-to-end.": {
+    "en": "End-to-end architecture: detection model, hardware integration, API, mobile app and end-to-end testing.",
+    "fr": "Architecture complète : modèle de détection, intégration matérielle, API, application mobile et tests de bout en bout.",
+    "pt": "Arquitetura completa: modelo de detecção, integração de hardware, API, aplicativo móvel e testes de ponta a ponta."
+  },
+  "Visualización conceptual de BoviSense en una tablet junto a un dispositivo de campo, con detección de ganado.": {
+    "en": "Conceptual BoviSense visual on a tablet beside a field device, showing cattle detection.",
+    "fr": "Visuel conceptuel de BoviSense sur tablette, près d’un dispositif de terrain, avec détection de bovins.",
+    "pt": "Visual conceitual do BoviSense em um tablet ao lado de um dispositivo de campo, com detecção de gado."
+  },
+  "mAP reportado": {
+    "en": "Reported mAP",
+    "fr": "mAP rapportée",
+    "pt": "mAP relatada"
+  },
+  "por lote": {
+    "en": "per batch",
+    "fr": "par lot",
+    "pt": "por lote"
+  },
+  "conteo manual": {
+    "en": "manual counting",
+    "fr": "comptage manuel",
+    "pt": "contagem manual"
+  },
+  "El conteo manual dependía de recorrer el potrero durante horas. El reto era construir un sistema que detectara bovinos en un entorno real, con conectividad limitada y cómputo restringido en el borde.": {
+    "en": "Manual counting meant walking the pasture for hours. The challenge was to detect cattle in real conditions, with limited connectivity and constrained edge computing resources.",
+    "fr": "Le comptage manuel nécessitait de parcourir le pâturage pendant des heures. Le défi était de détecter les bovins en conditions réelles, avec une connectivité limitée et des ressources de calcul restreintes en périphérie.",
+    "pt": "A contagem manual exigia percorrer o pasto durante horas. O desafio era detectar bovinos em condições reais, com conectividade limitada e recursos computacionais restritos na borda."
+  },
+  "Entrené y optimicé un modelo de detección para correr en la Jetson, diseñé el flujo de comunicación con ESP32 y LoRa, y conecté el resultado con una app Flutter y un backend Node/Express sobre Firebase.": {
+    "en": "I trained and optimised a detection model for the Jetson, designed communication through ESP32 and LoRa, and connected the results to a Flutter app and a Node/Express backend using Firebase.",
+    "fr": "J’ai entraîné et optimisé un modèle de détection pour la Jetson, conçu les communications avec ESP32 et LoRa, puis relié les résultats à une application Flutter et un backend Node/Express utilisant Firebase.",
+    "pt": "Treinei e otimizei um modelo de detecção para a Jetson, projetei a comunicação com ESP32 e LoRa e conectei os resultados a um aplicativo Flutter e a um backend Node/Express com Firebase."
+  },
+  "El prototipo alcanzó un mAP de 0.87 y redujo una tarea de ~2 horas a ~5 minutos por lote. Se validó con pruebas funcionales, de integración y de extremo a extremo.": {
+    "en": "The prototype achieved a mAP of 0.87 and reduced a ~2-hour task to ~5 minutes per batch. It was validated through functional, integration and end-to-end tests.",
+    "fr": "Le prototype a atteint une mAP de 0.87 et réduit une tâche de ~2 heures à ~5 minutes par lot. Il a été validé par des tests fonctionnels, d’intégration et de bout en bout.",
+    "pt": "O protótipo alcançou uma mAP de 0.87 e reduziu uma tarefa de ~2 horas para ~5 minutos por lote. Foi validado com testes funcionais, de integração e de ponta a ponta."
+  },
+  "Aprendí que la IA útil no termina en el modelo: vive en la latencia, la energía, el hardware y la experiencia de quien opera el sistema.": {
+    "en": "I learned that useful AI goes beyond the model: latency, power, hardware and the operator’s experience are all part of the solution.",
+    "fr": "J’ai appris qu’une IA utile va au-delà du modèle : latence, énergie, matériel et expérience de l’opérateur font partie de la solution.",
+    "pt": "Aprendi que uma IA útil vai além do modelo: latência, energia, hardware e a experiência de quem opera o sistema fazem parte da solução."
+  },
+  "Sentimiento y detección de bots en conversaciones sociales.": {
+    "en": "Sentiment analysis and bot detection in social conversations.",
+    "fr": "Analyse des sentiments et détection de bots dans les conversations en ligne.",
+    "pt": "Análise de sentimentos e detecção de bots em conversas nas redes sociais."
+  },
+  "Proyecto académico": {
+    "en": "Academic project",
+    "fr": "Projet universitaire",
+    "pt": "Projeto acadêmico"
+  },
+  "NLP · Full Stack": {
+    "en": "NLP · Full Stack",
+    "fr": "NLP · Full Stack",
+    "pt": "NLP · Full Stack"
+  },
+  "Feb — Jun 2026": {
+    "en": "Feb — Jun 2026",
+    "fr": "Fév — Juin 2026",
+    "pt": "Fev — Jun 2026"
+  },
+  "Es difícil distinguir opiniones reales de contenido generado por bots en redes sociales.": {
+    "en": "It is difficult to distinguish genuine opinions from bot-generated content on social media.",
+    "fr": "Il est difficile de distinguer les avis authentiques des contenus générés par des bots sur les réseaux sociaux.",
+    "pt": "É difícil distinguir opiniões reais de conteúdo gerado por bots nas redes sociais."
+  },
+  "Plataforma web que clasifica comentarios y detecta contenido automatizado usando dos modelos NLP entrenados de forma independiente.": {
+    "en": "A web platform that classifies comments and detects automated content using two independently trained NLP models.",
+    "fr": "Une plateforme web qui classe les commentaires et détecte les contenus automatisés à l’aide de deux modèles NLP entraînés indépendamment.",
+    "pt": "Plataforma web que classifica comentários e detecta conteúdo automatizado com dois modelos de NLP treinados de forma independente."
+  },
+  "Dashboard interactivo con inferencia en tiempo real, distribución de sentimiento y scoring de bots.": {
+    "en": "An interactive dashboard with real-time inference, sentiment distribution and bot scoring.",
+    "fr": "Un tableau de bord interactif avec inférence en temps réel, répartition des sentiments et scores de bots.",
+    "pt": "Painel interativo com inferência em tempo real, distribuição de sentimentos e pontuação de bots."
+  },
+  "Entrenamiento y reentrenamiento de modelos, API con FastAPI y dashboard React con visualizaciones.": {
+    "en": "Model training and retraining, a FastAPI inference API and a React dashboard with visualisations.",
+    "fr": "Entraînement et réentraînement des modèles, API FastAPI et tableau de bord React avec visualisations.",
+    "pt": "Treinamento e retreinamento de modelos, API com FastAPI e painel React com visualizações."
+  },
+  "Recreación del dashboard de análisis de sentimiento y detección de bots, con datos de ejemplo.": {
+    "en": "Conceptual sentiment analysis and bot detection dashboard, with sample data.",
+    "fr": "Reconstitution du tableau de bord d’analyse des sentiments et de détection de bots, avec des données fictives.",
+    "pt": "Recriação do painel de análise de sentimentos e detecção de bots, com dados de exemplo."
+  },
+  "modelos NLP": {
+    "en": "NLP models",
+    "fr": "modèles NLP",
+    "pt": "modelos de NLP"
+  },
+  "API de inferencia": {
+    "en": "inference API",
+    "fr": "API d’inférence",
+    "pt": "API de inferência"
+  },
+  "visualización": {
+    "en": "visualisation",
+    "fr": "visualisation",
+    "pt": "visualização"
+  },
+  "Los comentarios de redes sociales mezclan lenguaje informal, ironía y cuentas automatizadas. El sistema debía separar sentimiento y bot score sin depender de una sola señal.": {
+    "en": "Social media comments combine informal language, irony and automated accounts. The system needed to separate sentiment analysis from bot scoring without relying on a single signal.",
+    "fr": "Les commentaires mêlent langage informel, ironie et comptes automatisés. Le système devait distinguer l’analyse des sentiments du score de bot sans dépendre d’un seul signal.",
+    "pt": "Comentários nas redes sociais misturam linguagem informal, ironia e contas automatizadas. O sistema precisava separar a análise de sentimentos da pontuação de bots sem depender de um único sinal."
+  },
+  "Preparé el dataset, entrené dos modelos independientes en Google Colab y expuse la inferencia con FastAPI. El dashboard en React muestra la evolución, la distribución y los comentarios con mayor score de bot.": {
+    "en": "I prepared the dataset, trained two independent models in Google Colab and exposed inference through FastAPI. The React dashboard shows trends, distributions and comments with the highest bot scores.",
+    "fr": "J’ai préparé le jeu de données, entraîné deux modèles indépendants sur Google Colab et exposé l’inférence via FastAPI. Le tableau de bord React affiche l’évolution, la répartition et les commentaires aux scores de bot les plus élevés.",
+    "pt": "Preparei o conjunto de dados, treinei dois modelos independentes no Google Colab e disponibilizei a inferência com FastAPI. O painel React mostra a evolução, a distribuição e os comentários com maior pontuação de bot."
+  },
+  "Una plataforma funcional que clasifica sentimiento y detecta cuentas sospechosas, con visualizaciones para explorar los resultados.": {
+    "en": "A working platform that classifies sentiment and flags suspicious accounts, with visualisations for exploring the results.",
+    "fr": "Une plateforme fonctionnelle qui classe les sentiments et signale les comptes suspects, avec des visualisations pour explorer les résultats.",
+    "pt": "Uma plataforma funcional que classifica sentimentos e sinaliza contas suspeitas, com visualizações para explorar os resultados."
+  },
+  "Documentar los datos y los umbrales importa tanto como la métrica: un modelo sin contexto es difícil de defender.": {
+    "en": "Documenting data and thresholds matters as much as the metric: a model without context is difficult to justify.",
+    "fr": "Documenter les données et les seuils compte autant que la métrique : un modèle sans contexte est difficile à justifier.",
+    "pt": "Documentar os dados e os limites importa tanto quanto a métrica: um modelo sem contexto é difícil de justificar."
+  },
+  "Una bóveda de credenciales que prioriza la seguridad sin sacrificar la experiencia.": {
+    "en": "A credential vault that puts security first without sacrificing usability.",
+    "fr": "Un coffre-fort d’identifiants qui privilégie la sécurité sans sacrifier l’ergonomie.",
+    "pt": "Um cofre de credenciais que prioriza a segurança sem comprometer a experiência."
+  },
+  "Proyecto personal": {
+    "en": "Personal project",
+    "fr": "Projet personnel",
+    "pt": "Projeto pessoal"
+  },
+  "Seguridad · Mobile": {
+    "en": "Security · Mobile",
+    "fr": "Sécurité · Mobile",
+    "pt": "Segurança · Mobile"
+  },
+  "Las contraseñas personales y de equipos pequeños terminan en notas, capturas o documentos sin protección.": {
+    "en": "Personal and small-team passwords often end up in unprotected notes, screenshots or documents.",
+    "fr": "Les mots de passe personnels et des petites équipes finissent souvent dans des notes, captures ou documents non protégés.",
+    "pt": "Senhas pessoais e de pequenas equipes acabam em notas, capturas de tela ou documentos sem proteção."
+  },
+  "App Flutter con bóveda cifrada, contraseña maestra, desbloqueo biométrico, generador de contraseñas y auto-lock; backend con Supabase.": {
+    "en": "A Flutter app with an encrypted vault, master password, biometric unlock, password generator and automatic locking; powered by Supabase.",
+    "fr": "Une application Flutter avec coffre-fort chiffré, mot de passe maître, déverrouillage biométrique, générateur de mots de passe et verrouillage automatique ; backend Supabase.",
+    "pt": "Aplicativo Flutter com cofre criptografado, senha mestra, desbloqueio biométrico, gerador de senhas e bloqueio automático; backend com Supabase."
+  },
+  "Cifrado XChaCha20-Poly1305, derivación de clave Argon2id y autenticación biométrica en una experiencia mobile-first.": {
+    "en": "XChaCha20-Poly1305 encryption, Argon2id key derivation and biometric authentication in a mobile-first experience.",
+    "fr": "Chiffrement XChaCha20-Poly1305, dérivation de clé Argon2id et authentification biométrique dans une expérience pensée pour le mobile.",
+    "pt": "Criptografia XChaCha20-Poly1305, derivação de chave Argon2id e autenticação biométrica em uma experiência voltada ao mobile."
+  },
+  "Diseño y desarrollo de la app Flutter, modelo de seguridad y backend Supabase.": {
+    "en": "Design and development of the Flutter app, security model and Supabase backend.",
+    "fr": "Conception et développement de l’application Flutter, du modèle de sécurité et du backend Supabase.",
+    "pt": "Design e desenvolvimento do aplicativo Flutter, do modelo de segurança e do backend Supabase."
+  },
+  "Biometría": {
+    "en": "Biometrics",
+    "fr": "Biométrie",
+    "pt": "Biometria"
+  },
+  "Visualización conceptual con IA de CredenSafe · interfaz recreada": {
+    "en": "AI-generated CredenSafe concept · recreated interface",
+    "fr": "Concept CredenSafe créé par IA · interface reconstituée",
+    "pt": "Conceito do CredenSafe criado com IA · interface recriada"
+  },
+  "Visualización conceptual de CredenSafe en dos teléfonos, con bóveda de credenciales y desbloqueo biométrico.": {
+    "en": "Conceptual CredenSafe visual on two phones, showing a credential vault and biometric unlock.",
+    "fr": "Visuel conceptuel de CredenSafe sur deux téléphones, avec coffre-fort d’identifiants et déverrouillage biométrique.",
+    "pt": "Visual conceitual do CredenSafe em dois celulares, com cofre de credenciais e desbloqueio biométrico."
+  },
+  "cifrado": {
+    "en": "encryption",
+    "fr": "chiffrement",
+    "pt": "criptografia"
+  },
+  "derivación": {
+    "en": "key derivation",
+    "fr": "dérivation de clé",
+    "pt": "derivação"
+  },
+  "desbloqueo": {
+    "en": "unlock",
+    "fr": "déverrouillage",
+    "pt": "desbloqueio"
+  },
+  "Una bóveda de contraseñas tiene que ser segura y, a la vez, suficientemente cómoda para usarla todos los días. La seguridad no podía convertirse en fricción.": {
+    "en": "A password vault needs to be secure and convenient enough for everyday use. Security could not become a source of friction.",
+    "fr": "Un coffre-fort de mots de passe doit être sûr et assez pratique pour un usage quotidien. La sécurité ne devait pas devenir une source de friction.",
+    "pt": "Um cofre de senhas precisa ser seguro e prático o suficiente para o uso diário. A segurança não podia se tornar um obstáculo."
+  },
+  "Separé la experiencia mobile de la capa de seguridad: contraseña maestra, derivación Argon2id, cifrado XChaCha20-Poly1305, biometría y bloqueo automático. La app se construyó en Flutter con Supabase como backend.": {
+    "en": "I separated the mobile experience from the security layer: master password, Argon2id derivation, XChaCha20-Poly1305 encryption, biometrics and automatic locking. The app uses Flutter with a Supabase backend.",
+    "fr": "J’ai séparé l’expérience mobile de la couche de sécurité : mot de passe maître, dérivation Argon2id, chiffrement XChaCha20-Poly1305, biométrie et verrouillage automatique. L’application utilise Flutter avec un backend Supabase.",
+    "pt": "Separei a experiência mobile da camada de segurança: senha mestra, derivação Argon2id, criptografia XChaCha20-Poly1305, biometria e bloqueio automático. O aplicativo usa Flutter com backend Supabase."
+  },
+  "Un producto funcional con bóveda cifrada, generador de contraseñas, biometría y organización de credenciales en una interfaz simple.": {
+    "en": "A working app with an encrypted vault, password generator, biometrics and credential organisation in a simple interface.",
+    "fr": "Une application fonctionnelle avec coffre-fort chiffré, générateur de mots de passe, biométrie et organisation des identifiants dans une interface simple.",
+    "pt": "Um aplicativo funcional com cofre criptografado, gerador de senhas, biometria e organização de credenciais em uma interface simples."
+  },
+  "La seguridad se diseña en capas: la criptografía protege los datos, pero la UX protege que la gente use el producto correctamente.": {
+    "en": "Security is designed in layers: cryptography protects data, while UX helps people use the product correctly.",
+    "fr": "La sécurité se conçoit par couches : la cryptographie protège les données, tandis que l’ergonomie aide à utiliser correctement le produit.",
+    "pt": "A segurança é projetada em camadas: a criptografia protege os dados, enquanto a experiência de uso ajuda as pessoas a utilizar o produto corretamente."
+  },
+  "Red de Referencia Hospitalaria": {
+    "en": "Hospital Referral Network",
+    "fr": "Réseau d’orientation hospitalière",
+    "pt": "Rede de Encaminhamento Hospitalar"
+  },
+  "Trazabilidad de derivaciones entre centros de salud.": {
+    "en": "Traceable patient referrals between healthcare facilities.",
+    "fr": "Traçabilité des orientations entre établissements de santé.",
+    "pt": "Rastreabilidade de encaminhamentos entre unidades de saúde."
+  },
+  "Gestión · Full Stack": {
+    "en": "Management · Full Stack",
+    "fr": "Gestion · Full Stack",
+    "pt": "Gestão · Full Stack"
+  },
+  "Ago — Dic 2024": {
+    "en": "Aug — Dec 2024",
+    "fr": "Août — Déc 2024",
+    "pt": "Ago — Dez 2024"
+  },
+  "La derivación de pacientes entre centros de salud pierde trazabilidad y dificulta la coordinación operativa.": {
+    "en": "Patient referrals between healthcare facilities lose traceability, making operational coordination difficult.",
+    "fr": "Les orientations de patients entre établissements manquent de traçabilité, ce qui complique la coordination opérationnelle.",
+    "pt": "Encaminhamentos de pacientes entre unidades de saúde perdem rastreabilidade e dificultam a coordenação operacional."
+  },
+  "Sistema para registrar, derivar y seguir pacientes entre hospitales, con roles, formularios e historial de cada referencia.": {
+    "en": "A system for recording, referring and tracking patients between hospitals, with roles, forms and a history for each referral.",
+    "fr": "Un système pour enregistrer, orienter et suivre les patients entre hôpitaux, avec des rôles, formulaires et un historique pour chaque orientation.",
+    "pt": "Sistema para registrar, encaminhar e acompanhar pacientes entre hospitais, com perfis de acesso, formulários e histórico de cada encaminhamento."
+  },
+  "Gestión de roles, estados y datos clínicos para que cada derivación tenga un responsable y un historial.": {
+    "en": "Role, status and clinical data management, giving each referral a responsible person and a traceable history.",
+    "fr": "Gestion des rôles, statuts et données cliniques pour attribuer à chaque orientation un responsable et un historique.",
+    "pt": "Gestão de perfis, estados e dados clínicos para que cada encaminhamento tenha um responsável e um histórico."
+  },
+  "Backend con NestJS, base de datos relacional MySQL y frontend React.": {
+    "en": "NestJS backend, relational MySQL database and React frontend.",
+    "fr": "Backend NestJS, base de données relationnelle MySQL et frontend React.",
+    "pt": "Backend com NestJS, banco de dados relacional MySQL e frontend React."
+  },
+  "Recreación del sistema de referencias hospitalarias con registros ficticios y estados de derivación.": {
+    "en": "Conceptual hospital referral interface with fictitious records and referral statuses.",
+    "fr": "Reconstitution du système d’orientation hospitalière avec des dossiers fictifs et des statuts de suivi.",
+    "pt": "Recriação do sistema de encaminhamento hospitalar com registros fictícios e estados de encaminhamento."
+  },
+  "Caso privado — disponible bajo solicitud": {
+    "en": "Private project — available on request",
+    "fr": "Projet privé — disponible sur demande",
+    "pt": "Projeto privado — disponível mediante solicitação"
+  },
+  "Roles": {
+    "en": "Roles",
+    "fr": "Rôles",
+    "pt": "Perfis"
+  },
+  "control de acceso": {
+    "en": "access control",
+    "fr": "contrôle d’accès",
+    "pt": "controle de acesso"
+  },
+  "API con NestJS": {
+    "en": "NestJS API",
+    "fr": "API NestJS",
+    "pt": "API com NestJS"
+  },
+  "datos relacionales": {
+    "en": "relational data",
+    "fr": "données relationnelles",
+    "pt": "dados relacionais"
+  },
+  "El proceso de referencia entre centros no tenía una fuente única de verdad. Cada derivación dependía de llamadas, mensajes y registros dispersos.": {
+    "en": "The referral process had no single source of truth. Each transfer depended on calls, messages and scattered records.",
+    "fr": "Le processus d’orientation ne disposait pas d’une source unique de référence. Chaque transfert dépendait d’appels, de messages et de dossiers dispersés.",
+    "pt": "O processo de encaminhamento não tinha uma fonte única de informação. Cada transferência dependia de ligações, mensagens e registros dispersos."
+  },
+  "Modelé el flujo de una referencia con estados y responsables, construí el backend en NestJS con TypeORM/MySQL y una interfaz React para registrar, consultar y seguir cada caso.": {
+    "en": "I modelled the referral workflow with statuses and owners, built the backend with NestJS and TypeORM/MySQL, and created a React interface to record, query and track each case.",
+    "fr": "J’ai modélisé le parcours d’une orientation avec des statuts et responsables, construit le backend NestJS avec TypeORM/MySQL et créé une interface React pour enregistrer, consulter et suivre chaque cas.",
+    "pt": "Modelei o fluxo de encaminhamento com estados e responsáveis, desenvolvi o backend em NestJS com TypeORM/MySQL e criei uma interface React para registrar, consultar e acompanhar cada caso."
+  },
+  "Un sistema académico funcional que centraliza referencias, roles y estados, con una vista operativa para coordinadores.": {
+    "en": "A working academic system centralising referrals, roles and statuses, with an operational view for coordinators.",
+    "fr": "Un système universitaire fonctionnel qui centralise orientations, rôles et statuts, avec une vue opérationnelle pour les coordinateurs.",
+    "pt": "Um sistema acadêmico funcional que centraliza encaminhamentos, perfis e estados, com uma visão operacional para coordenadores."
+  },
+  "En software de gestión, el reto no es la pantalla: es modelar bien los estados y hacer visible quién tiene la pelota.": {
+    "en": "In management software, the real challenge is modelling statuses correctly and making ownership clear.",
+    "fr": "Dans un logiciel de gestion, le véritable défi est de bien modéliser les statuts et de rendre les responsabilités visibles.",
+    "pt": "Em software de gestão, o verdadeiro desafio é modelar bem os estados e deixar claro quem é o responsável."
+  },
+  "Core": {
+    "en": "Core",
+    "fr": "Principal",
+    "pt": "Principal"
+  },
+  "Intermedio": {
+    "en": "Intermediate",
+    "fr": "Intermédiaire",
+    "pt": "Intermediário"
+  },
+  "Familiar": {
+    "en": "Familiar",
+    "fr": "Notions",
+    "pt": "Familiar"
+  },
+  "Lo uso con frecuencia y tengo proyectos que lo respaldan.": {
+    "en": "I use it frequently and have projects to show for it.",
+    "fr": "Je l’utilise régulièrement et des projets en témoignent.",
+    "pt": "Uso com frequência e tenho projetos que demonstram essa prática."
+  },
+  "Lo he usado en proyectos concretos y sigo profundizando.": {
+    "en": "I’ve used it in projects and am continuing to deepen my knowledge.",
+    "fr": "Je l’ai utilisé dans des projets concrets et je continue à approfondir.",
+    "pt": "Usei em projetos concretos e continuo aprofundando meus conhecimentos."
+  },
+  "Tengo bases y experiencia puntual; lo aprendo cuando el proyecto lo pide.": {
+    "en": "I have a foundation and some practical experience; I learn more when a project calls for it.",
+    "fr": "Je possède des bases et une expérience ponctuelle ; j’approfondis selon les besoins du projet.",
+    "pt": "Tenho conhecimentos básicos e experiência pontual; aprofundo quando o projeto exige."
+  },
+  "Datos & IA": {
+    "en": "Data & AI",
+    "fr": "Données & IA",
+    "pt": "Dados & IA"
+  },
+  "Mobile & herramientas": {
+    "en": "Mobile & tools",
+    "fr": "Mobile & outils",
+    "pt": "Mobile & ferramentas"
+  },
+  "Visión por computadora": {
+    "en": "Computer vision",
+    "fr": "Vision par ordinateur",
+    "pt": "Visão computacional"
+  },
+  "Sistema de detección y conteo de ganado con IA en edge, comunicación LoRa y app móvil. Arquitectura completa, del modelo al dispositivo.": {
+    "en": "Cattle detection and counting with edge AI, LoRa communication and a mobile app. End-to-end architecture, from model to device.",
+    "fr": "Détection et comptage du bétail avec IA en périphérie, communication LoRa et application mobile. Architecture complète, du modèle au dispositif.",
+    "pt": "Detecção e contagem de gado com IA na borda, comunicação LoRa e aplicativo móvel. Arquitetura completa, do modelo ao dispositivo."
+  },
+  "IA": {
+    "en": "AI",
+    "fr": "IA",
+    "pt": "IA"
+  },
+  "Plataforma de análisis de sentimiento y detección de bots con dos modelos NLP, API FastAPI y dashboard React.": {
+    "en": "Sentiment analysis and bot detection platform with two NLP models, a FastAPI backend and a React dashboard.",
+    "fr": "Plateforme d’analyse des sentiments et de détection de bots avec deux modèles NLP, une API FastAPI et un tableau de bord React.",
+    "pt": "Plataforma de análise de sentimentos e detecção de bots com dois modelos de NLP, API FastAPI e painel React."
+  },
+  "Bóveda de credenciales mobile-first con cifrado, biometría y backend Supabase. Diseño y desarrollo de punta a punta.": {
+    "en": "A mobile-first credential vault with encryption, biometrics and a Supabase backend. Designed and developed end to end.",
+    "fr": "Coffre-fort d’identifiants pensé pour le mobile, avec chiffrement, biométrie et backend Supabase. Conception et développement de bout en bout.",
+    "pt": "Cofre de credenciais voltado ao mobile, com criptografia, biometria e backend Supabase. Design e desenvolvimento de ponta a ponta."
+  },
+  "Seguridad": {
+    "en": "Security",
+    "fr": "Sécurité",
+    "pt": "Segurança"
+  },
+  "Sistema de derivación de pacientes entre centros de salud, con roles, estados y trazabilidad de cada referencia.": {
+    "en": "A patient referral system for healthcare facilities, with roles, statuses and traceability for each referral.",
+    "fr": "Système d’orientation des patients entre établissements de santé, avec rôles, statuts et traçabilité de chaque orientation.",
+    "pt": "Sistema de encaminhamento de pacientes entre unidades de saúde, com perfis, estados e rastreabilidade de cada encaminhamento."
+  },
+  "Licenciatura en Ingeniería de Sistemas Informáticos": {
+    "en": "Degree in Computer Systems Engineering",
+    "fr": "Diplôme en ingénierie des systèmes informatiques",
+    "pt": "Graduação em Engenharia de Sistemas Informáticos"
+  },
+  "Nativo": {
+    "en": "Native",
+    "fr": "Natif",
+    "pt": "Nativo"
+  },
+  "Sep 2025": {
+    "en": "Sep 2025",
+    "fr": "Sept 2025",
+    "pt": "Set 2025"
+  },
+  "Ago 2025": {
+    "en": "Aug 2025",
+    "fr": "Août 2025",
+    "pt": "Ago 2025"
+  },
+  "Mar 2025": {
+    "en": "Mar 2025",
+    "fr": "Mars 2025",
+    "pt": "Mar 2025"
+  },
+  "Jun 2026": {
+    "en": "Jun 2026",
+    "fr": "Juin 2026",
+    "pt": "Jun 2026"
+  },
+  "Inicio": {
+    "en": "Home",
+    "fr": "Accueil",
+    "pt": "Início"
+  },
+  "Proyectos": {
+    "en": "Projects",
+    "fr": "Projets",
+    "pt": "Projetos"
+  },
+  "Producto primero": {
+    "en": "Product first",
+    "fr": "Le produit d’abord",
+    "pt": "Produto em primeiro lugar"
+  },
+  "Pienso en la persona que va a usar el sistema antes que en la tecnología. La solución más simple suele ser la mejor.": {
+    "en": "I think about the person using the system before choosing the technology. The simplest solution is often the best.",
+    "fr": "Je pense à la personne qui utilisera le système avant de choisir la technologie. La solution la plus simple est souvent la meilleure.",
+    "pt": "Penso em quem vai usar o sistema antes de escolher a tecnologia. A solução mais simples costuma ser a melhor."
+  },
+  "IA que aterriza": {
+    "en": "AI that works in practice",
+    "fr": "L’IA sur le terrain",
+    "pt": "IA na prática"
+  },
+  "Modelos que corren en el mundo real: edge, latencia, hardware y datos sucios. La métrica importa cuando resuelve algo.": {
+    "en": "Models that run in real conditions: edge computing, latency, hardware and messy data. A metric matters when it helps solve a problem.",
+    "fr": "Des modèles qui fonctionnent en conditions réelles : calcul en périphérie, latence, matériel et données imparfaites. La métrique compte lorsqu’elle contribue à résoudre un problème.",
+    "pt": "Modelos que funcionam em condições reais: computação na borda, latência, hardware e dados imperfeitos. A métrica importa quando ajuda a resolver um problema."
+  },
+  "Código legible": {
+    "en": "Readable code",
+    "fr": "Code lisible",
+    "pt": "Código legível"
+  },
+  "Nombres claros, componentes pequeños y documentación para que otra persona pueda continuar sin adivinar.": {
+    "en": "Clear names, small components and documentation so another developer can pick up the work without guessing.",
+    "fr": "Des noms clairs, de petits composants et une documentation qui permet à une autre personne de reprendre le travail sans deviner.",
+    "pt": "Nomes claros, componentes pequenos e documentação para que outra pessoa possa continuar o trabalho sem adivinhar."
+  },
+  "Captura": {
+    "en": "Capture",
+    "fr": "Capture",
+    "pt": "Captura"
+  },
+  "Cámara": {
+    "en": "Camera",
+    "fr": "Caméra",
+    "pt": "Câmera"
+  },
+  "La cámara captura el paso del ganado. Es el punto de entrada del sistema de visión artificial.": {
+    "en": "The camera captures cattle passing through. It is the entry point of the computer vision system.",
+    "fr": "La caméra capture le passage du bétail. C’est le point d’entrée du système de vision artificielle.",
+    "pt": "A câmera captura a passagem do gado. É o ponto de entrada do sistema de visão computacional."
+  },
+  "Detección": {
+    "en": "Detection",
+    "fr": "Détection",
+    "pt": "Detecção"
+  },
+  "La Jetson Orin Nano procesa las imágenes en el borde y ejecuta el modelo de detección, cerca del lugar donde se generan los datos.": {
+    "en": "The Jetson Orin Nano processes images at the edge and runs the detection model near the source of the data.",
+    "fr": "La Jetson Orin Nano traite les images en périphérie et exécute le modèle de détection au plus près de la source des données.",
+    "pt": "A Jetson Orin Nano processa as imagens na borda e executa o modelo de detecção perto da origem dos dados."
+  },
+  "Comunicación": {
+    "en": "Communication",
+    "fr": "Communication",
+    "pt": "Comunicação"
+  },
+  "Los dispositivos ESP32 y los enlaces LoRa y BLE conectan el procesamiento de campo con la operación móvil.": {
+    "en": "ESP32 devices and LoRa/BLE links connect field processing with mobile operation.",
+    "fr": "Les dispositifs ESP32 et les liaisons LoRa et BLE relient le traitement sur le terrain à l’exploitation mobile.",
+    "pt": "Os dispositivos ESP32 e os enlaces LoRa e BLE conectam o processamento no campo à operação móvel."
+  },
+  "Aplicación": {
+    "en": "Application",
+    "fr": "Application",
+    "pt": "Aplicativo"
+  },
+  "La app Flutter permite operar el sistema y consultar resultados. La API Node/Express y Firebase gestionan autenticación y persistencia.": {
+    "en": "The Flutter app lets users operate the system and view results. The Node/Express API and Firebase handle authentication and persistence.",
+    "fr": "L’application Flutter permet de piloter le système et de consulter les résultats. L’API Node/Express et Firebase gèrent l’authentification et la persistance.",
+    "pt": "O aplicativo Flutter permite operar o sistema e consultar os resultados. A API Node/Express e o Firebase gerenciam autenticação e persistência."
+  },
+  "Interfaces": {
+    "en": "Interfaces",
+    "fr": "Interfaces",
+    "pt": "Interfaces"
+  },
+  "Backend & datos": {
+    "en": "Backend & data",
+    "fr": "Backend & données",
+    "pt": "Backend & dados"
+  },
+  "Node.js · APIs REST · SQL": {
+    "en": "Node.js · REST APIs · SQL",
+    "fr": "Node.js · API REST · SQL",
+    "pt": "Node.js · APIs REST · SQL"
+  },
+  "Integración": {
+    "en": "Integration",
+    "fr": "Intégration",
+    "pt": "Integração"
+  },
+  "IA aplicada · Flutter · IoT": {
+    "en": "Applied AI · Flutter · IoT",
+    "fr": "IA appliquée · Flutter · IoT",
+    "pt": "IA aplicada · Flutter · IoT"
+  },
+  "Forma de trabajar": {
+    "en": "How I work",
+    "fr": "Ma façon de travailler",
+    "pt": "Como trabalho"
+  },
+  "Git · documentación · pruebas": {
+    "en": "Git · documentation · testing",
+    "fr": "Git · documentation · tests",
+    "pt": "Git · documentação · testes"
+  },
+  "Oportunidad laboral": {
+    "en": "Job opportunity",
+    "fr": "Opportunité professionnelle",
+    "pt": "Oportunidade profissional"
+  },
+  "Introduce un correo electrónico válido.": {
+    "en": "Enter a valid email address.",
+    "fr": "Saisissez une adresse e-mail valide.",
+    "pt": "Informe um e-mail válido."
+  },
+  "Revisa este campo e inténtalo de nuevo.": {
+    "en": "Check this field and try again.",
+    "fr": "Vérifiez ce champ et réessayez.",
+    "pt": "Verifique este campo e tente novamente."
+  },
+  "Portafolio": {
+    "en": "Portfolio",
+    "fr": "Portfolio",
+    "pt": "Portfólio"
+  },
+  "Desarrollador Full Stack Junior. React, Node.js e IA aplicada. Proyectos, casos de estudio y CV. Disponible para trabajo remoto.": {
+    "en": "Junior Full Stack Developer. React, Node.js and applied AI. Projects, case studies and CV. Available for remote work.",
+    "fr": "Développeur Full Stack Junior. React, Node.js et IA appliquée. Projets, études de cas et CV. Disponible à distance.",
+    "pt": "Desenvolvedor Full Stack Júnior. React, Node.js e IA aplicada. Projetos, estudos de caso e CV. Disponível para trabalho remoto."
+  },
+  "Desarrollo web full stack": {
+    "en": "Full-stack web development",
+    "fr": "Développement web full stack",
+    "pt": "Desenvolvimento web full stack"
+  },
+  "Inteligencia artificial": {
+    "en": "Artificial intelligence",
+    "fr": "Intelligence artificielle",
+    "pt": "Inteligência artificial"
+  }
+}

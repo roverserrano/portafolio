@@ -1,61 +1,66 @@
+export const levelLabels = {
+  core: "Core",
+  working: "Intermedio",
+  familiar: "Familiar",
+};
+
+export const levelDescriptions = {
+  core: "Lo uso con frecuencia y tengo proyectos que lo respaldan.",
+  working: "Lo he usado en proyectos concretos y sigo profundizando.",
+  familiar: "Tengo bases y experiencia puntual; lo aprendo cuando el proyecto lo pide.",
+};
+
 export const skillGroups = [
   {
-    title: "Lenguajes",
-    skills: [
-      { name: "Python", level: "primary" },
-      { name: "JavaScript", level: "primary" },
-      { name: "TypeScript", level: "primary" },
-      { name: "C#", level: "secondary" },
-      { name: "SQL", level: "secondary" },
-    ],
-  },
-  {
     title: "Frontend",
+    icon: "layout",
     skills: [
-      { name: "React", level: "primary" },
-      { name: "Tailwind CSS", level: "primary" },
-      { name: "Vite", level: "primary" },
-      { name: "Flutter", level: "secondary" },
-      { name: "React Native", level: "secondary" },
-      { name: "HTML/CSS", level: "secondary" },
+      { name: "React", level: "core" },
+      { name: "JavaScript", level: "core" },
+      { name: "Tailwind CSS", level: "core" },
+      { name: "TypeScript", level: "working" },
+      { name: "Vite", level: "working" },
+      { name: "HTML / CSS", level: "working" },
     ],
   },
   {
     title: "Backend",
+    icon: "server",
     skills: [
-      { name: "Node.js", level: "primary" },
-      { name: "Express.js", level: "primary" },
-      { name: "NestJS", level: "secondary" },
-      { name: "FastAPI", level: "secondary" },
-      { name: "ASP.NET", level: "secondary" },
+      { name: "Node.js", level: "core" },
+      { name: "REST APIs", level: "core" },
+      { name: "Express", level: "working" },
+      { name: "NestJS", level: "working" },
+      { name: "FastAPI", level: "working" },
+      { name: "Firebase", level: "working" },
+      { name: "Supabase", level: "working" },
     ],
   },
   {
-    title: "Bases de datos",
+    title: "Datos & IA",
+    icon: "spark",
     skills: [
-      { name: "SQL Server", level: "secondary" },
-      { name: "MySQL", level: "secondary" },
-      { name: "Firebase", level: "secondary" },
-      { name: "MongoDB", level: "primary" },
+      { name: "Python", level: "core" },
+      { name: "SQL", level: "working" },
+      { name: "TensorFlow", level: "working" },
+      { name: "NLP", level: "working" },
+      { name: "Visión por computadora", level: "working" },
+      { name: "PyTorch", level: "familiar" },
+      { name: "MySQL", level: "working" },
+      { name: "MongoDB", level: "familiar" },
     ],
   },
   {
-    title: "IA / ML",
+    title: "Mobile & herramientas",
+    icon: "terminal",
     skills: [
-      { name: "TensorFlow", level: "primary" },
-      { name: "PyTorch", level: "primary" },
-      { name: "NLP", level: "secondary" },
-      { name: "Visión por computadora", level: "secondary" },
-    ],
-  },
-  {
-    title: "Herramientas & Cloud",
-    skills: [
-      { name: "Git / GitHub", level: "primary" },
-      { name: "Linux", level: "primary" },
-      { name: "Docker", level: "secondary" },
-      { name: "AWS", level: "secondary" },
-      { name: "Huawei Cloud", level: "muted" },
+      { name: "Git / GitHub", level: "core" },
+      { name: "Flutter", level: "working" },
+      { name: "Docker", level: "working" },
+      { name: "Linux", level: "working" },
+      { name: "AWS", level: "familiar" },
+      { name: "React Native", level: "familiar" },
+      { name: "C# / ASP.NET", level: "familiar" },
     ],
   },
 ];

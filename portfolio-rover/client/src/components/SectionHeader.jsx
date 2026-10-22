@@ -1,14 +1,31 @@
-export default function SectionHeader({ eyebrow, title, children }) {
+export default function SectionHeader({
+  eyebrow,
+  title,
+  children,
+  id,
+  align = "left",
+  className = "",
+}) {
+  const alignment =
+    align === "center" ? "mx-auto text-center items-center" : "items-start";
+
   return (
-    <div className="mb-12 max-w-2xl">
-      <span className="mb-4 inline-flex items-center gap-3 font-mono text-xs font-medium uppercase tracking-[0.15em] text-accent-warm">
-        <span className="h-px w-8 rounded-full bg-accent-warm/50" />
-        {eyebrow}
-      </span>
-      <h2 className="font-heading text-[clamp(1.6rem,3vw,2.4rem)] font-bold leading-[1.1] tracking-[-0.02em] text-text-primary">
+    <header className={`flex max-w-3xl flex-col ${alignment} ${className}`}>
+      <div className="mb-5 flex items-center gap-3">
+        <span className="h-px w-8 bg-accent/60" aria-hidden="true" />
+        <span className="eyebrow">{eyebrow}</span>
+      </div>
+      <h2
+        id={id}
+        className="font-heading text-[clamp(2rem,4vw,3.4rem)] font-semibold leading-[1.02] tracking-[-0.045em] text-ink text-balance"
+      >
         {title}
       </h2>
-      {children ? <p className="mt-4 text-base leading-relaxed text-text-secondary sm:text-lg">{children}</p> : null}
-    </div>
+      {children ? (
+        <p className="mt-5 max-w-2xl text-base leading-[1.75] text-muted sm:text-lg">
+          {children}
+        </p>
+      ) : null}
+    </header>
   );
 }
